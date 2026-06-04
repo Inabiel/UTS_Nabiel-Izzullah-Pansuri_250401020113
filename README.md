@@ -34,6 +34,7 @@ Didalam repository ini, terdapat proses belajar saya akan machine learning yang 
 ## Cara Menjalankan notebook secara lokal
 - pastikan sudah menginstall python
 - install ekstensi jupyter pada vscode
+- install package menggunakan pip install -r .\requirements.txt
 - jalankan notebook dengan run all
 
 ## Kesimpulan umum perjalanan belajar data science pertemuan 1-7
