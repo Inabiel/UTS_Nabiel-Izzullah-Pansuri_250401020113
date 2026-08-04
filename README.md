@@ -20,6 +20,11 @@ Didalam repository ini, terdapat proses belajar saya akan machine learning yang 
 | 5 | Visualisasi Data | [Buka Notebook](./Pertemuan5_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb) | [Repo](https://github.com/Inabiel/Data-Viz-Python/blob/main/Pertemuan5_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb)
 | 6 | Persiapan Data | [Buka Notebook](./Pertemuan6_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb) | [Repo](https://github.com/Inabiel/EDA-Preprocessing/blob/main/Pertemuan6_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb)
 | 7 | Pengantar Machine Learning: Regresi Linier | [Buka Notebook](./Pertemuan7_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb) | [Repo](https://github.com/Inabiel/Linear-Regression-Exercise/blob/main/Pertemuan7_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb)
+| 9 | Algoritma Klasifikasi (Bagian 1) | [Buka Notebook](./Pertemuan9_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb) | [Repo](https://github.com/Inabiel/classification/blob/main/Pertemuan9_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb) |
+| 10 | Algoritma Klasifikasi (Bagian 2) | [Buka Notebook](./Pertemuan10_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb) | [Repo](https://github.com/Inabiel/classification-pt-2/blob/main/Pertemuan10_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb) |
+| 11 | Unsupervised Learning: Clustering | [Buka Notebook](./Pertemuan11_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb) | [Repo](https://github.com/Inabiel/clustering/blob/main/Pertemuan11_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb) |
+| 12 | Asosiasi Data & Sistem Rekomendasi Dasar | [Buka Notebook](./Pertemuan12_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb) | [Repo](https://github.com/Inabiel/apriori/blob/main/Pertemuan12_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb) |
+| 13 | Deep Learning dan NLP Dasar | [Buka Notebook](./Pertemuan13_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb) | [Repo](https://github.com/Inabiel/neural/blob/main/Pertemuan13_Nabiel%20Izzullah%20Pansuri_250401020113.ipynb)|
 
 
 ## Tools yang digunakan
